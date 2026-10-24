@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Israel example adapter. Maps one export layout onto abstract fields. Not validated Israeli filing support.
-- An application already using the surrounding runtime needs to connect the backend or provider implemented by financial-adapter-il.
+- Inspect the provided Israel sample export layout and October fiscal calendar.
+- Use the sample field mapping while keeping its lack of validated local filing support explicit.
 
 ## Links
 
