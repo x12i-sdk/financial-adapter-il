@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-adapter-il",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-adapter-il",
+  "usageRepository": "https://github.com/x12i-sdk/financial-adapter-il",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/adapter-il",
+  "example": {
+    "title": "Inspect the Israel sample layout and its support boundary",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:52.627868+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "267434fbe0dac430d33d937f58aa66b7a24436d18e69d44e5e78366a837af435",
+    "manifestSha256": "8d52b4e19094f7694f250af6655afc08634133c627f1de71aaba0e07cdef48b8"
+  }
+}
